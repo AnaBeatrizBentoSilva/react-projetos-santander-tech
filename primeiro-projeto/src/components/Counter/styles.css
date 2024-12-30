@@ -1,0 +1,60 @@
+/* Contêiner principal do Counter */
+.counter-wrapper {
+    display: flex;
+    justify-content: center; /* Alinhamento horizontal */
+    align-items: center; /* Alinhamento vertical */
+    height: 100vh; /* Ocupa a altura da janela */
+  }
+  
+  /* Caixa do contador */
+  .counter-container {
+    background-color: #444; /* Fundo um pouco mais claro */
+    color: #fff; /* Texto branco */
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Valor do contador */
+  .counter-value {
+    font-size: 3rem;
+    margin: 10px 0;
+  }
+  
+  /* Contêiner dos botões */
+  .button-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+  }
+  
+  /* Botão do contador */
+  .counter-button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  /* Botão de diminuir */
+  .decrease-button {
+    background-color: #e63946; /* Vermelho */
+  }
+  
+  .decrease-button:hover {
+    background-color: #d62839; /* Vermelho mais escuro */
+  }
+  
+  /* Botão de aumentar */
+  .increase-button {
+    background-color: #2a9d8f; /* Verde */
+  }
+  
+  .increase-button:hover {
+    background-color: #21867a; /* Verde mais escuro */
+  }
+  
