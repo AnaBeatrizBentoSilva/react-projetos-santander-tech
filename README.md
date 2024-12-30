@@ -3,7 +3,7 @@
 Este repositório contém os projetos desenvolvidos durante o curso de Frontend oferecido pelo Santander Tech+ em parceria com a ADA. Cada projeto foi criado para aplicar e consolidar os conhecimentos adquiridos ao longo do curso.
 
 ## Conteúdo
-O curso de React Básico, oferece uma introdução ao ReactJS, cobrindo componentização, uso de props e estados, e o ciclo de vida dos componentes. Ele aborda a criação de aplicações modulares, dinâmicas e interativas,  com foco nos fundamentos essenciais do React.
+O curso de React Básico, apresenta os fundamentos do ReactJS, cobrindo componentização, uso de props e estados, e o ciclo de vida dos componentes. Ele aborda a criação de aplicações modulares, dinâmicas e interativas,  com foco nos fundamentos essenciais do React.
 
 - **React Legado - Componentização**
 - **React Legado - Props e Estados**
