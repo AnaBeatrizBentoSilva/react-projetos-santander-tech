@@ -16,7 +16,6 @@ Cada pasta representa um projeto individual
 ```plaintext
 .
 ├── ciclo-de-vida/
-│   ├── node_modules/
 │   ├── public/
 │   ├── src/
 │   │   ├── components/
@@ -25,12 +24,10 @@ Cada pasta representa um projeto individual
 │   │   ├── App.jsx
 │   │   └── index.js
 │   ├── .gitignore
-│   ├── node_modules/
+│   ├── README.md
 │   ├── package-lock.json
-│   ├── package.json
-│   └── README.md
+│   └── package.json
 ├── primeiro-projeto/
-│   ├── node_modules/
 │   ├── public/
 │   ├── src/
 │   │   ├── assets/
@@ -57,8 +54,7 @@ Cada pasta representa um projeto individual
 │   │   ├── App.jsx
 │   │   └── index.js
 │   ├── .gitignore
-│   ├── node_modules/
+│   ├── README.md
 │   ├── package-lock.json
-│   ├── package.json
-│   └── README.md
+│   └── package.json
 └── README.md
